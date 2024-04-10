@@ -28,3 +28,12 @@ Set up MongoDB and import the dataset into a MongoDB database.
 Open the HTML and JavaScript files for the interactive dashboard.
 Configure the dashboard to connect to your MongoDB database and retrieve the data.
 Launch the dashboard in a web browser to interactively explore the analysis results.
+
+## Contributing
+We welcome contributions from the community! If you find any issues or have feature requests, please open an issue on GitHub. Pull requests are also appreciated.
+
+## Guidelines
+Fork the repository and clone it locally.
+Create a new branch for your feature or bug fix.
+Follow the coding style guide.
+Submit a pull request with a clear description of your changes
