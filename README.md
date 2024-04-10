@@ -8,7 +8,6 @@ The analysis will involve exploratory data analysis (EDA) techniques to understa
 
 
 
-
 ## Getting Started
 To run the analysis and view the interactive dashboard, follow these steps:
 
@@ -22,6 +21,7 @@ To run the analysis and view the interactive dashboard, follow these steps:
 ## Install the required Python dependencies.
 
 cd healthcare-analysis
+
 pip install -r requirements.txt
 
 Set up MongoDB and import the dataset into a MongoDB database.
