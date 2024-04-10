@@ -20,11 +20,16 @@ To run the analysis and view the interactive dashboard, follow these steps:
 
 ## Install the required Python dependencies.
 
-pandas==1.3.3<>
+pandas==1.3.3
+
 numpy==1.21.2
+
 matplotlib==3.4.3
+
 seaborn==0.11.2
+
 plotly==5.3.1
+
 pymongo==3.12.0
 
 ## Contributing
