@@ -25,8 +25,11 @@ cd healthcare-analysis
 pip install -r requirements.txt
 
 Set up MongoDB and import the dataset into a MongoDB database.
+
 Open the HTML and JavaScript files for the interactive dashboard.
+
 Configure the dashboard to connect to your MongoDB database and retrieve the data.
+
 Launch the dashboard in a web browser to interactively explore the analysis results.
 
 ## Contributing
