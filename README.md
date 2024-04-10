@@ -20,9 +20,12 @@ To run the analysis and view the interactive dashboard, follow these steps:
 
 ## Install the required Python dependencies.
 
-cd healthcare-analysis
-
-pip install -r requirements.txt
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+seaborn==0.11.2
+plotly==5.3.1
+pymongo==3.12.0
 
 ## Contributing
 We welcome contributions from the community! If you find any issues or have feature requests, please open an issue on GitHub. Pull requests are also appreciated.
