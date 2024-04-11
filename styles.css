@@ -59,7 +59,7 @@ select {
 }
 
 /* Style for the chart containers */
-#bar, #gauge, #bubble {
-    height: 400px; /* Set height for the chart containers */
-    margin-bottom: 20px; /* Add space below the chart containers */
-}
+/* #bar, #gauge, #bubble { */
+    /* height: 400px; Set height for the chart containers */
+    /* margin-bottom: 20px; Add space below the chart containers */
+/* } */
