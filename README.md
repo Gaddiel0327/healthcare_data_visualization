@@ -32,6 +32,12 @@ plotly==5.3.1
 
 pymongo==3.12.0
 
+## Data Source
+
+The dataset used in this project is available on Kaggle and can be accessed using the following link:
+
+[Healthcare Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
+
 ## Contributing
 We welcome contributions from the community! If you find any issues or have feature requests, please open an issue on GitHub. Pull requests are also appreciated.
 
