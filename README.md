@@ -50,3 +50,8 @@ Fork the repository and clone it locally.
 Create a new branch for your feature or bug fix.
 Follow the coding style guide.
 Submit a pull request with a clear description of your changes
+
+## References
+
+- [D3.js Gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=hero&utm_campaign=try-observable): This project utilizes visualizations created using D3.js, a JavaScript library for producing dynamic, interactive data visualizations in web browsers. We drew inspiration and utilized code snippets from the D3.js Gallery to enhance the visualization capabilities of our project.
+
