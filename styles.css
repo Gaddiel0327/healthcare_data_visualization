@@ -1,0 +1,65 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif; /* Set default font family */
+    background-color: #5f68715e; /* Set background color */
+}
+
+/* Style for the container */
+.container {
+    max-width: 1200px; /* Set maximum width for the container */
+    margin: auto; /* Center the container */
+    padding: 20px; /* Add padding around the container */
+}
+
+/* Style for the header */
+.header {
+    text-align: center; /* Center align text */
+    background-color: #007bff; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 20px; /* Add padding */
+}
+
+/* Style for the heading */
+h1 {
+    font-size: 39px; /* Set font size */
+    margin-bottom: 20px; /* Add space below the heading */
+}
+
+/* Style for the paragraph */
+p {
+    font-size: 18px; /* Set font size */
+}
+
+/* Style for the card */
+.card {
+    margin-bottom: 20px; /* Add space below the card */
+    border-radius: 10px; /* Add border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+/* Style for the card body */
+.card-body {
+    padding: 20px; /* Add padding */
+}
+
+/* Style for the card header */
+.card-header {
+    background-color: #007bff; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 10px 20px; /* Add padding */
+    border-top-left-radius: 10px; /* Add border radius */
+    border-top-right-radius: 10px; /* Add border radius */
+}
+
+/* Style for the select dropdown */
+select {
+    width: 100%; /* Set width to 100% */
+    padding: 10px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+}
+
+/* Style for the chart containers */
+/* #bar, #gauge, #bubble { */
+    /* height: 400px; Set height for the chart containers */
+    /* margin-bottom: 20px; Add space below the chart containers */
+/* } */
